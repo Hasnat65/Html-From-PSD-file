@@ -1,0 +1,166 @@
+body{
+height: 999px;
+max-width:1000px;
+    min-width: 160px;
+margin: auto;}
+.divsap{
+    margin-left: 75px;
+    width:288px;
+    height: 152px;
+   background-color: #6aadda;
+float: left;
+}
+.img{
+    padding: 54px 41px 31px 21px;
+    
+}
+.cal{
+    float: clear;
+    color: rgba(86, 160, 211, 255);
+      text-align: right;
+     margin-top:44px;
+    margin-right: 33px;
+    margin-left: 70px;
+   font-size: 20px;
+}
+.contact{
+color: rgba(86, 160, 211, 255);
+float: right;  
+    text-align: right;
+    height: 61px;
+    width: 243px;
+    margin-right: 33px;
+ font-size: 40px;
+    
+}
+.navbar{min-width: 160px;
+    max-width: 1000px;
+    height: 35px;
+    
+float: left;}
+ul{min-width: 160px;
+   background-color: #6aadda;
+  max-width: 1000px;
+   font-size: 30px;
+    color: white;
+ text-decoration: none;
+    list-style-type: none;
+ margin: 0px;
+ padding: 0px;
+    height: 65px;
+  overflow: hidden;
+    margin-top: 46px;
+}
+li{ margin: 3px;
+   float: left;
+    padding: 12px;  
+}
+.logo{
+height: 227px;
+    width: 1000px;
+    margin-top: 28px;
+    text-align: right;
+    min-width: 140px;
+    background-image: url(24323752_1524617780956792_1615726880_o.png);
+    color: white;
+  
+}
+.hh{height: 22px;
+    font-size: 24px;
+    margin-left:620px;
+   margin-right: 40px;
+max-width: 328px;
+font-weight: bold;}
+.hn{height: 82px;
+
+    margin-left:620px;
+   margin-right: 40px;
+max-width: 308px;
+font-weight: bold;}
+
+.layer{
+    width: 55px;;
+    height: 227px;
+
+}
+h3{
+    margin-top: 20px;
+   font-family: ﻿Calibri, ﻿AdobeInvisFont, ﻿Courier;
+font-size: 16.47223pt;
+color: rgba(86, 160, 211, 255);
+text-align: left; 
+    margin-left: 96px;
+}
+.about{   min-width: 160px;
+    overflow: hidden;
+    width: 777px;
+    height: 80px;
+    margin-left: 96px;
+   font-family: ﻿Calibri, ﻿AdobeInvisFont, ﻿Courier;
+font-size: 13pt;
+color: rgb(111,112, 112);
+    opacity: .8;
+
+}
+.adds{float: left;
+  margin-left: 96px;
+    margin-right: 45px;
+    height: 160px;
+    width: 211px;
+    min-width: 160px;
+
+    
+font-weight: bold;}
+.adds1{float: left;
+  margin-left:44px;
+    margin-right: 45px;
+    height: 160px;
+    width: 211px;
+       min-width: 160px;
+font-weight: bold;}
+.adds2{float: left;
+  margin-left:44px;
+    margin-right: 45px;
+    height: 160px;
+    width: 211px;
+    
+font-weight: bold;}
+.footer{
+    margin-top: 260px;
+    height: 62px;
+    max-width:1000px;
+    min-width: 160px;
+    background-color: #6faed9;
+font-size: 20px;
+    padding: auto;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
